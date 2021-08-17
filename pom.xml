@@ -6,6 +6,6 @@
 
     <groupId>gb.spring</groupId>
     <artifactId>homework</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>homework</name>
 </project>
